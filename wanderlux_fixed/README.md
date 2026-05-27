@@ -1,6 +1,6 @@
 # Wanderlux Travel Booking Platform
 
-A full-stack, proper modularized version of the Wanderlux project using **Node.js, Express, and MySQL**.
+A full-stack, proper modularized versions of the Wanderlux project using **Node.js, Express, and MySQL**.
 
 ## Project Structure
 ```text
